@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VictorKenedy
 - 👀 I’m interested in Web development, im new :)
-- 🌱 I’m currently Vue.js
+- 🌱 I’m currently learning Vue.js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
